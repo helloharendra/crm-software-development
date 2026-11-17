@@ -258,3 +258,17 @@ This repository represents the ERP software development services and solution ca
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Pipeline</b><br><br><img src="screenshots/2-pipeline.png" alt="Pipeline"></td>
+    <td align="center" width="50%"><b>Leads</b><br><br><img src="screenshots/3-leads.png" alt="Leads"></td>
+  </tr>
+</table>
